@@ -1,13 +1,34 @@
-## ⚡ AI-Based Insulator Health Detection for Spot Maintenance
+# ⚡ AI-Based Insulator Health Detection for Spot Maintenance
 
-![Safety Protocols Detection Presentation](Process Flow.png)
+> Deep Learning + YOLO + Roboflow for automated insulator health and fault detection
 
-![Safety Protocols Detection Presentation](AI Based Insulator Health Detection.pptx)
+## 🎯 Project Overview
 
-## 📌 Project Overview
-
-![Insulator Health Detection](project/Process_Flow.png)
+AI-based object detection model developed to identify trained insulator
+health/fault conditions from images and support proactive spot maintenance
+in electricity distribution networks.
 
 ## 📊 Project Presentation
 
-📥 [Download Project Presentation](project/AI_Based_Insulator_Health_Detection.pptx)
+![Insulator Health Detection](Process_Flow.png)
+
+[![View Presentation](AI_Based_Insulator_Health_Detection.pptx)
+
+📥 **[Download Project Presentation](./AI_Based_Insulator_Health_Detection.pptx)**
+
+## 🧠 Technology Stack
+
+- YOLO
+- Roboflow
+- Deep Learning
+- Python
+- Computer Vision
+- Object Detection
+
+## 🚀 Key Benefits
+
+- Proactive identification of insulator defects
+- Faster field inspection
+- Improved maintenance prioritization
+- Reduced dependency on manual visual inspection
+- Supports data-driven distribution maintenance
