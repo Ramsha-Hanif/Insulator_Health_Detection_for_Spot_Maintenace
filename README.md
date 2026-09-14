@@ -12,7 +12,7 @@ in electricity distribution networks.
 
 ![Insulator Health Detection](Process_Flow.png)
 
-[![View Presentation](./images/Process_Flow.png)](./AI_Based_Insulator_Health_Detection.pptx)
+[![View Presentation](AI_Based_Insulator_Health_Detection.pptx)
 
 📥 **[Download Project Presentation](./AI_Based_Insulator_Health_Detection.pptx)**
 
