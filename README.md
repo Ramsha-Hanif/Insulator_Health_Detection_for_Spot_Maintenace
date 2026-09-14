@@ -1,8 +1,8 @@
 ## ⚡ AI-Based Insulator Health Detection for Spot Maintenance
 
-![Safety Protocols Detection Presentation](Process Flow.png)
+![Safety Protocols Detection Presentation](Process_Flow.png)
 
-![Safety Protocols Detection Presentation](AI Based Insulator Health Detection.pptx)
+![Safety Protocols Detection Presentation](AI_Based_Insulator_Health_Detection.pptx)
 
 ## 📌 Project Overview
 
