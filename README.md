@@ -10,9 +10,9 @@ in electricity distribution networks.
 
 ## 📊 Project Presentation
 
-[![View Presentation](./images/presentation_cover.png)](./Insulator_Health_Detection_Presentation.pptx)
+[![View Presentation](./images/Process_Flow.png)](./AI_Based_Insulator_Health_Detection.pptx)
 
-📥 **[Download Project Presentation](./Insulator_Health_Detection_Presentation.pptx)**
+📥 **[Download Project Presentation](./AI_Based_Insulator_Health_Detection.pptx)**
 
 ## 🧠 Technology Stack
 
